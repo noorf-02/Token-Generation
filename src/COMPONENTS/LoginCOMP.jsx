@@ -2,7 +2,7 @@ import React from 'react'
 
 function LoginCOMP() {
   return (
-    <div>
+    <div className='wrapper'>
       Login Comp
     </div>
   )
