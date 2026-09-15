@@ -2,6 +2,6 @@
 
 @layer components{
     .wrapper{
-        @apply mx-auto w-[90%] my-10
+        @apply mx-auto w-[90%]
     }
 }
