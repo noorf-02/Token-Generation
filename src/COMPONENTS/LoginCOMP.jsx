@@ -17,6 +17,8 @@ function LoginCOMP() {
           <input type="password" placeholder='abcABC@123' className='focus:outline-none border border-1 border-gray-200 py-3 px-5 sm:w-[400px] w-[320px] shadow-md rounded-lg' />
         </div>
 
+        <button className='bg-indigo-900 hover:bg-indigo-950 text-white font-bold py-1 rounded-lg'>Log In</button>
+
         <p>Don't have an account? <Link to='/sign-up' className='underline italic text-indigo-900'>Sign Up Here</Link></p>
       </div>
     </div>
